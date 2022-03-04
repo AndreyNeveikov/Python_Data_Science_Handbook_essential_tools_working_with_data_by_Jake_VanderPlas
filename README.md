@@ -1,0 +1,2 @@
+# Python_Data_Science_Handbook_essential_tools_working_with_data_by_Jake_VanderPlas
+ Exercises and projects based on DS Handbook
